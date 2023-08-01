@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    margin: 100px;
+}
+.text {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+    border: 4px dashed red;
+    height: 510px;
+}
+h1 , h2 , h3 {
+    color: #f9004d;
+    text-transform: capitalize;
+    font-family: monospace;
+} 
+
+p {
+    font-weight: bolder;
+    font-style: italic;
+    color: #f9004d; 
+    font-family: 'Times New Roman', Times, serif;
+    height: 2px;
+    margin: 50px;
+}
+
+
+a {
+    color: #f9004d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
